@@ -1,8 +1,7 @@
-,Ticker,Date,Earnings Time,Current 7 Day Implied,Implied Move Weekly
-0,AEO,,17,4.81%,
-0,ADSK,"Nov. 28, 2017",AC,2.52%,
-0,MRVL,"Nov. 28, 2017",AC,3.34%,
-0,MOMO,"Nov. 28, 2017",BO,5.45%,
-0,AABA,,17,2.53%,
-0,AMBA,"Nov. 30, 2017",AC,3.85%,
-0,KR,,17,2.90%,
+Ticker,Date,Earnings Time,Current 7 Day Implied,Implied Move Weekly
+ADSK,"Nov. 28, 2017",AC,0.46%,
+MRVL,"Nov. 28, 2017",AC,0.92%,
+MOMO,"Nov. 28, 2017",BO,1.31%,
+AABA,,,0.62%,
+AMBA,"Nov. 30, 2017",AC,1.63%,
+KR,"Nov. 30, 2017",BO,2.13%,

@@ -1,18 +1,41 @@
-Ticker,Recent Closing Price,Put Strike,Date,Earnings Time,Current 7 Day Implied,Implied Move Weekly
-JD, 39.79 , 37.90 ,"Nov. 13, 2017",BO,4.75%,
-TSN, 73.09 , 71.06 ,"Nov. 13, 2017",BO,2.78%,5.63%
-LNG, 50.19 , 48.62 ,"Nov. 14, 2017",BO,3.13%,4.58%
-SSYS, 21.26 , 19.79 ,"Nov. 14, 2017",BO,6.91%,13.74%
-HD, 163.66 , 160.32 ,"Nov. 14, 2017",BO,2.04%,3.50%
-YY, 91.36 , 86.93 ,"Nov. 14, 2017",AC,4.85%,
-TGT, 57.89 , 56.06 ,"Nov. 15, 2017",BO,3.16%,5.90%
-CSCO, 34.40 , 33.55 ,"Nov. 15, 2017",AC,2.46%,4.69%
-NTAP, 44.65 , 42.97 ,"Nov. 15, 2017",AC,3.77%,6.28%
-NTES, 306.59 , 292.64 ,"Nov. 15, 2017",AC,4.55%,7.42%
-BBY, 55.13 , 52.71 ,"Nov. 16, 2017",BO,4.39%,9.68%
-VIAB, 24.78 , 23.38 ,"Nov. 16, 2017",BO,5.64%,9.78%
-WMT, 88.95 , 87.08 ,"Nov. 16, 2017",BO,2.10%,3.86%
-AMAT, 56.47 , 54.65 ,"Nov. 16, 2017",AC,3.23%,6.88%
-GPS, 25.71 , 24.44 ,"Nov. 16, 2017",AC,4.95%,8.96%
-SPLK, 68.00 , 65.14 ,"Nov. 16, 2017",AC,4.21%,
-ANF, 11.69 , 10.71 ,"Nov. 17, 2017",BO,8.38%,
+Ticker,Company,Earnings Call Time,EPS Estimate
+BRN,Barnwell Industries Inc,Time Not Supplied,-
+CVGW,Calavo Growers Inc,Before Market Open,0.5
+HEI,HEICO Corp,After Market Close,0.57
+IXYS,IXYS Corp,After Market Close,0.23
+STRP,Straight Path Communications Inc,Time Not Supplied,-0.27
+WOR,Worthington Industries Inc,After Market Close,0.67
+CCL,Carnival Corp,Before Market Open,0.51
+HGSH,China HGS Real Estate Inc,Before Market Open,-
+DRI,Darden Restaurants Inc,Before Market Open,0.7
+FDS,FactSet Research Systems Inc,Before Market Open,1.98
+FDX,FedEx Corp,11:15AM EST,2.89
+MU,Micron Technology Inc,After Market Close,2.19
+NAV,Navistar International Corp,Before Market Open,0.63
+RHT,Red Hat Inc,After Market Close,0.7
+SOL,ReneSola Ltd,Before Market Open,0.05
+SCS,Steelcase Inc,After Market Close,0.22
+YGE,Yingli Green Energy Holding Co Ltd,Before Market Open,-2.61
+ALJJ,ALJ Regional Holdings Inc,Time Not Supplied,-
+ATU,Actuant Corp,Time Not Supplied,-
+ADXS,Advaxis Inc,After Market Close,-0.55
+BBBY,Bed Bath & Beyond Inc,After Market Close,0.37
+BASI,Bioanalytical Systems Inc,Before Market Open,-
+GIS,General Mills Inc,Before Market Open,0.83
+MLHR,Herman Miller Inc,After Market Close,0.57
+SKYS,Sky Solar Holdings Ltd,After Market Close,-
+WSCI,WSI Industries Inc,After Market Close,-
+WGO,Winnebago Industries Inc,Before Market Open,0.52
+AIR,AAR Corp,After Market Close,0.36
+ACN,Accenture PLC,Before Market Open,1.67
+APOG,Apogee Enterprises Inc,Before Market Open,0.92
+CAMP,CalAmp Corp,After Market Close,0.29
+KMX,Carmax Inc,Before Market Open,0.81
+CTAS,Cintas Corp,After Market Close,1.26
+CAG,Conagra Brands Inc,Before Market Open,0.52
+FINL,Finish Line Inc,Before Market Open,-0.36
+HLG,Hailiang Education Group Inc,Before Market Open,-
+HOV,Hovnanian Enterprises Inc,Before Market Open,0.02
+LNN,Lindsay Corp,Before Market Open,0.36
+NKE,Nike Inc,After Market Close,0.41
+PAYX,Paychex Inc,Before Market Open,0.59
