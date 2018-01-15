@@ -1,8 +1,90 @@
 Ticker,Company,Earnings Call Time,EPS Estimate
-ASFI,Asta Funding Inc,Before Market Open,-
-BDL,Flanigan's Enterprises Inc,Time Not Supplied,-
-AKP,Alliance California Municipal Income Fund Inc,After Market Close,-
-AFB,AllianceBernstein National Municipal Income Fund Inc,Time Not Supplied,-
-NFJ,Allianzgi NFJ Dividend Interest & Premium Strategy Fund,After Market Close,-
-CLMT,Calumet Specialty Products Partners LP,Before Market Open,0.25
-OMNT,Ominto Inc,Before Market Open,-
+CNBKA,Century Bancorp Inc,After Market Close,-
+HIFS,Hingham Institution For Savings,Time Not Supplied,-
+JCTCF,Jewett-Cameron Trading Company Ltd,After Market Close,-
+MVC,MVC Capital Inc,Before Market Open,-
+NCBS,Nicolet Bankshares Inc,Time Not Supplied,0.81
+ADTN,ADTRAN Inc,After Market Close,-0.04
+DIT,AMCON Distributing Co,After Market Close,-
+BKMU,Bank Mutual Corp,After Market Close,0.11
+CSX,CSX Corp,After Market Close,0.56
+SCHW,Charles Schwab Corp,Before Market Open,0.42
+C,Citigroup Inc,Before Market Open,1.19
+CMA,Comerica Inc,Before Market Open,1.21
+CBSH,Commerce Bancshares Inc,2:00AM EST,0.72
+CTBI,Community Trust Bancorp Inc,Before Market Open,0.75
+FFKT,Farmers Capital Bank Corp,Time Not Supplied,0.6
+FNLC,First Bancorp Inc,Time Not Supplied,-
+FCCO,First Community Corp,Time Not Supplied,0.24
+FRC,First Republic Bank,Before Market Open,1.33
+INFO,IHS Markit Ltd,Before Market Open,0.5
+IBKR,Interactive Brokers Group Inc,11:00AM EST,0.4
+MBWM,Mercantile Bank Corp,Before Market Open,0.5
+PBNC,Paragon Commercial Corp,Time Not Supplied,0.77
+PNFP,Pinnacle Financial Partners Inc,After Market Close,0.94
+PLBC,Plumas Bancorp,After Market Close,-
+RNST,Renasant Corp,After Market Close,0.62
+SMBK,SmartFinancial Inc,Time Not Supplied,0.02
+UNB,Union Bankshares Inc,Time Not Supplied,-
+UNH,UnitedHealth Group Inc,Before Market Open,2.52
+SRCE,1st Source Corp,Time Not Supplied,0.66
+AMNB,American National Bankshares Inc,After Market Close,0.53
+BANF,BancFirst Corp,After Market Close,0.69
+BAC,Bank of America Corp,1:45AM EST,0.44
+BSET,Bassett Furniture Industries Inc,Before Market Open,0.52
+BSF,Bear State Financial Inc,Before Market Open,-
+BPFH,Boston Private Financial Holdings Inc,After Market Close,0.23
+CZNC,Citizens & Northern Corp,Time Not Supplied,0.33
+CZFC,Citizens First Corp,Time Not Supplied,-
+CVLY,Codorus Valley Bancorp Inc,Time Not Supplied,-
+CBAN,Colony Bankcorp Inc,Before Market Open,-
+ICBK,County Bancorp Inc,Before Market Open,0.47
+EGBN,Eagle Bancorp Inc,After Market Close,0.88
+FAST,Fastenal Co,2:00AM EST,0.45
+LION,Fidelity Southern Corp,Time Not Supplied,0.31
+INBK,First Internet Bancorp,After Market Close,0.62
+GS,Goldman Sachs Group Inc,Before Market Open,4.92
+GFED,Guaranty Federal Bancshares Inc,Time Not Supplied,0.38
+HBHC,Hancock Holding Co,After Market Close,0.83
+HBMD,Howard Bancorp Inc,Before Market Open,0.23
+KMI,Kinder Morgan Inc,After Market Close,0.18
+OVLY,Oak Valley Bancorp,Time Not Supplied,-
+PTC,PTC Inc,After Market Close,0.3
+PLXS,Plexus Corp,After Market Close,0.8
+SLM,SLM Corp,After Market Close,0.19
+USB,U.S. Bancorp,Before Market Open,0.87
+WAFD,Washington Federal Inc,Before Market Open,0.51
+AXP,American Express Co,After Market Close,1.54
+ATLO,Ames National Corp,Time Not Supplied,-
+AROW,Arrow Financial Corp,Time Not Supplied,0.56
+TEAM,Atlassian Corp PLC,After Market Close,-
+BBT,BB&T Corp,Before Market Open,0.79
+BOCH,Bank of Commerce Holdings,Time Not Supplied,0.19
+BK,Bank of New York Mellon Corp,Before Market Open,0.91
+CHCO,City Holding Co,Time Not Supplied,0.97
+TCFC,Community Financial Corp,Time Not Supplied,0.56
+ENFC,Entegra Financial Corp,After Market Close,0.38
+FFBC,First Financial Bancorp,After Market Close,0.4
+GATX,GATX Corp,Before Market Open,0.73
+HOMB,Home BancShares Inc,Before Market Open,0.34
+INDB,Independent Bank Corp,After Market Close,0.89
+IBM,International Business Machines Corp,After Market Close,5.16
+JBHT,J B Hunt Transport Services Inc,Before Market Open,0.96
+KEY,KeyCorp,Before Market Open,0.36
+MTB,M&T Bank Corp,Before Market Open,2.4
+MTG,MGIC Investment Corp,Before Market Open,0.28
+MLNX,Mellanox Technologies Ltd,After Market Close,0.68
+MS,Morgan Stanley,Before Market Open,0.77
+PPG,PPG Industries Inc,Before Market Open,1.19
+PBCT,People's United Financial Inc,After Market Close,0.27
+SASR,Sandy Spring Bancorp Inc,Before Market Open,0.58
+SBNY,Signature Bank,Before Market Open,2.23
+WNS,WNS (Holdings) Ltd,Before Market Open,0.5
+WABC,Westamerica Bancorp,6:30AM EST,0.58
+CFG,Citizens Financial Group Inc,1:30AM EST,0.67
+FHN,First Horizon National Corp,Before Market Open,0.3
+KSU,Kansas City Southern,Before Market Open,1.37
+RF,Regions Financial Corp,Before Market Open,0.26
+SLB,Schlumberger NV,Before Market Open,0.45
+STI,SunTrust Banks Inc,Before Market Open,1.05
+SYF,Synchrony Financial,Before Market Open,0.64
