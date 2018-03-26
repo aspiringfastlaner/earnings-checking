@@ -1,511 +1,457 @@
-Ticker,Company,Earnings Call Time,EPS Estimate
-ACM,AECOM,Before Market Open,0.54
-AGCO,AGCO Corp,Before Market Open,1.13
-ACXM,Acxiom Corp,After Market Close,0.24
-ATGE,Adtalem Global Education Inc,After Market Close,0.75
-AKAM,Akamai Technologies Inc,After Market Close,0.63
-AGN,Allergan plc,Before Market Open,4.74
-AOSL,Alpha and Omega Semiconductor Ltd,After Market Close,0.25
-ABC,AmerisourceBergen Corp,Before Market Open,1.34
-APC,Anadarko Petroleum Corp,After Market Close,0.03
-AGTC,Applied Genetic Technologies Corp,After Market Close,-0.19
-ARMK,Aramark,Before Market Open,0.56
-ADM,Archer Daniels Midland Co,Before Market Open,0.7
-AI,Arlington Asset Investment Corp,After Market Close,0.52
-AHH,Armada Hoffler Properties Inc,1:00AM EST,0.09
-ARRY,Array Biopharma Inc,Before Market Open,-0.23
-ARW,Arrow Electronics Inc,Time Not Supplied,2.3
-APAM,Artisan Partners Asset Management Inc,After Market Close,0.67
-ABG,Asbury Automotive Group Inc,Before Market Open,1.59
-AC,Associated Capital Group Inc,Time Not Supplied,-
-ATO,Atmos Energy Corp,After Market Close,1.13
-AXTA,Axalta Coating Systems Ltd,Before Market Open,0.31
-ACLS,Axcelis Technologies Inc,After Market Close,0.39
-BMI,Badger Meter Inc,After Market Close,0.24
-BHB,Bar Harbor Bankshares,Time Not Supplied,-
-BZH,Beazer Homes USA Inc,After Market Close,-0.08
-BDX,Becton Dickinson and Co,Before Market Open,2.41
-TECH,Bio-Techne Corp,Before Market Open,0.92
-BBOX,Black Box Corp,After Market Close,-0.18
-BLKB,Blackbaud Inc,After Market Close,0.6
-CEVA,CEVA Inc,Before Market Open,0.25
-CBT,Cabot Corp,After Market Close,0.78
-CNC,Centene Corp,1:00AM EST,0.93
-CERN,Cerner Corp,After Market Close,0.61
-CMG,Chipotle Mexican Grill Inc,After Market Close,1.32
-CFX,Colfax Corp,Before Market Open,0.44
-TCS,Container Store Group Inc,After Market Close,0.13
-CRAY,Cray Inc,After Market Close,0.2
-CUB,Cubic Corp,After Market Close,-0.03
-CMI,Cummins Inc,Before Market Open,2.66
-DHT,DHT Holdings Inc,Before Market Open,-0.01
-DNKN,Dunkin' Brands Group Inc,Before Market Open,0.63
-ESE,ESCO Technologies Inc,After Market Close,0.31
-EMR,Emerson Electric Co,Before Market Open,0.55
-ENSG,Ensign Group Inc,Time Not Supplied,0.4
-ENTG,Entegris Inc,Before Market Open,0.37
-EFX,Equifax Inc,After Market Close,1.35
-EXTR,Extreme Networks Inc,After Market Close,0.13
-FBSS,Fauquier Bankshares Inc,Time Not Supplied,-
-FIS,Fidelity National Information Services Inc,Before Market Open,1.34
-IT,Gartner Inc,Before Market Open,1.32
-GM,General Motors Co,Before Market Open,1.38
-GILD,Gilead Sciences Inc,After Market Close,1.67
-GAIN,Gladstone Investment Corp,After Market Close,0.18
-GPK,Graphic Packaging Holding Co,Before Market Open,0.19
-GPP,Green Plains Partners LP,After Market Close,0.48
-GHL,Greenhill & Co Inc,After Market Close,-0.27
-HAE,Haemonetics Corp,1:00AM EST,0.44
-HWKN,Hawkins Inc,After Market Close,-
-HCSG,Healthcare Services Group Inc,After Market Close,0.31
-HIW,Highwoods Properties Inc,After Market Close,0.29
-HMN,Horace Mann Educators Corp,After Market Close,0.48
-IESC,IES Holdings Inc,Before Market Open,-
-IO,ION Geophysical Corp,After Market Close,-0.05
-ISR,IsoRay Inc,After Market Close,-0.02
-JCOM,J2 Global Inc,After Market Close,1.79
-JKHY,Jack Henry & Associates Inc,After Market Close,0.8
-KFRC,Kforce Inc,After Market Close,0.37
-LRAD,LRAD Corp,After Market Close,-
-LH,Laboratory Corporation of America Holdings,Before Market Open,2.38
-LII,Lennox International Inc,Before Market Open,1.65
-LPT,Liberty Property Trust,Before Market Open,0.34
-LITE,Lumentum Holdings Inc,Before Market Open,1.12
-MTSI,MACOM Technology Solutions Holdings Inc,After Market Close,0.13
-MANH,Manhattan Associates Inc,After Market Close,0.45
-MKL,Markel Corp,After Market Close,6.77
-MTCH,Match Group Inc,After Market Close,0.32
-MCC,Medley Capital Corp,Before Market Open,0.16
-MCHP,Microchip Technology Inc,After Market Close,1.35
-MODN,Model N Inc,After Market Close,-0.06
-LABL,Multi-Color Corp,3:30AM EST,0.73
-MYGN,Myriad Genetics Inc,After Market Close,0.24
-NTGR,NETGEAR Inc,After Market Close,0.64
-NANO,Nanometrics Inc,After Market Close,0.47
-NEWR,New Relic Inc,After Market Close,-0.08
-NEU,NewMarket Corp,After Market Close,3.62
-OAK,Oaktree Capital Group LLC,Before Market Open,0.53
-OLN,Olin Corp,After Market Close,0.44
-OHI,Omega Healthcare Investors Inc,After Market Close,0.42
-OI,Owens-Illinois Inc,After Market Close,0.54
-GLT,P H Glatfelter Co,Before Market Open,0.32
-PCMI,PCM Inc,After Market Close,0.56
-PRO,PROS Holdings Inc,After Market Close,-0.18
-PAYC,Paycom Software Inc,After Market Close,0.24
-PXD,Pioneer Natural Resources Co,After Market Close,0.79
-PAA,Plains All American Pipeline LP,After Market Close,0.41
-PAGP,Plains GP Holdings LP,After Market Close,0.45
-POWL,Powell Industries Inc,After Market Close,-0.16
-PFPT,Proofpoint Inc,After Market Close,0.2
-PZN,Pzena Investment Management Inc,After Market Close,0.17
-QDEL,Quidel Corp,After Market Close,0.2
-AXS,AXIS Capital Holdings Ltd,After Market Close,0.23
-ALL,Allstate Corp,After Market Close,1.53
-UHAL,Amerco,After Market Close,-
-AEL,American Equity Investment Life Holding Co,After Market Close,0.68
-AINV,Apollo Investment Corp,Before Market Open,0.15
-AHL,Aspen Insurance Holdings Ltd,After Market Close,-3.56
-ASTC,Astrotech Corp,Before Market Open,-
-AYTU,Aytu BioScience Inc,Time Not Supplied,-1.78
-BGCP,BGC Partners Inc,Before Market Open,0.29
-BLMT,BSB Bancorp Inc,After Market Close,-
-BLL,Ball Corp,Before Market Open,0.52
-BRN,Barnwell Industries Inc,Time Not Supplied,-
-BHE,Benchmark Electronics Inc,After Market Close,0.37
-BERY,Berry Global Group Inc,Before Market Open,0.64
-BCO,Brinks Co,Before Market Open,0.96
-CDW,CDW Corp,Before Market Open,0.99
-CSGS,CSG Systems International Inc,After Market Close,0.65
-CSRA,CSRA Inc,After Market Close,0.47
-CSTE,Caesarstone Ltd,Before Market Open,0.27
-ELY,Callaway Golf Co,After Market Close,-0.18
-CSII,Cardiovascular Systems Inc,After Market Close,-0.04
-CRCM,Care.com Inc,Time Not Supplied,0.17
-CG,Carlyle Group LP,Before Market Open,0.6
-ROX,Castle Brands Inc,Time Not Supplied,-
-CENT,Central Garden & Pet Co,After Market Close,0.15
-CINF,Cincinnati Financial Corp,After Market Close,0.86
-CDE,Coeur Mining Inc,After Market Close,0.1
-CTSH,Cognizant Technology Solutions Corp,Before Market Open,0.97
-COHR,Coherent Inc,After Market Close,3.52
-CLCT,Collectors Universe Inc,After Market Close,-
-CFMS,ConforMIS Inc,After Market Close,-0.3
-CUZ,Cousins Properties Inc,After Market Close,0.02
-CCK,Crown Holdings Inc,After Market Close,0.79
-DHX,DHI Group Inc,Before Market Open,0.04
-DIOD,Diodes Inc,11:05AM EST,0.39
-ECHO,Echo Global Logistics Inc,After Market Close,0.19
-ENTA,Enanta Pharmaceuticals Inc,After Market Close,0.19
-ENS,EnerSys,After Market Close,1.14
-ESP,Espey MFG and Electronics Corp,Time Not Supplied,-
-ESS,Essex Property Trust Inc,After Market Close,1.08
-EEFT,Euronet Worldwide Inc,Before Market Open,1.12
-EXC,Exelon Corp,Before Market Open,0.6
-FISV,Fiserv Inc,After Market Close,1.38
-FLO,Flowers Foods Inc,After Market Close,0.15
-FONR,Fonar Corp,Before Market Open,-
-FORM,FormFactor Inc,After Market Close,0.27
-FORR,Forrester Research Inc,After Market Close,0.3
-FWRD,Forward Air Corp,After Market Close,0.62
-GGP,GGP Inc,Before Market Open,0.2
-GBDC,Golub Capital BDC Inc,After Market Close,0.32
-GPRE,Green Plains Inc,After Market Close,-0.15
-HAIN,Hain Celestial Group Inc,Before Market Open,0.43
-HAS,Hasbro Inc,Before Market Open,1.8
-HOS,Hornbeck Offshore Services Inc,After Market Close,-0.75
-HUM,Humana Inc,1:30AM EST,2
-IAC,IAC/InterActiveCorp,After Market Close,0.92
-INTL,INTL FCStone Inc,After Market Close,-
-INFN,Infinera Corp,After Market Close,-0.13
-IPHI,Inphi Corp,After Market Close,0.36
-ICE,Intercontinental Exchange Inc,Before Market Open,0.72
-IVC,Invacare Corp,After Market Close,-0.42
-ITIC,Investors Title Co,Before Market Open,-
-JEC,Jacobs Engineering Group Inc,Before Market Open,0.72
-JLL,Jones Lang LaSalle Inc,Before Market Open,4.22
-KS,KapStone Paper and Packaging Corp,After Market Close,0.39
-KERX,Keryx Biopharmaceuticals Inc,Before Market Open,-0.18
-KN,Knowles Corp,After Market Close,0.34
-LCI,Lannett Company Inc,After Market Close,0.85
-LFVN,LifeVantage Corp,After Market Close,-
-LLNW,Limelight Networks Inc,11:00AM EST,0.01
-MDU,MDU Resources Group Inc,Before Market Open,0.32
-MN,Manning & Napier Inc,After Market Close,0.09
-MTRX,Matrix Service Co,After Market Close,0.15
-MNI,McClatchy Co,Before Market Open,0.72
-KORS,Michael Kors Holdings Ltd,Before Market Open,1.29
-MC,Moelis & Co,After Market Close,0.42
-MNR,Monmouth Real Estate Investment Corp,After Market Close,0.1
-NXPI,NXP Semiconductors NV,After Market Close,1.8
-BABY,Natus Medical Inc,Before Market Open,0.54
-NCI,Navigant Consulting Inc,Before Market Open,0.4
-NNA,Navios Maritime Acquisition Corp,3:00AM EST,-0.04
-NTES,NetEase Inc,After Market Close,2.11
-ORLY,O'Reilly Automotive Inc,After Market Close,2.77
-OSUR,OraSure Technologies Inc,11:00AM EST,0.11
-OESX,Orion Energy Systems Inc,Before Market Open,-0.06
-PNNT,PennantPark Investment Corp,After Market Close,0.18
-PFGC,Performance Food Group Co,Before Market Open,0.35
-PDM,Piedmont Office Realty Trust Inc,After Market Close,0.12
-PRI,Primerica Inc,After Market Close,1.43
-PDEX,Pro-Dex Inc,Time Not Supplied,0.04
-PSEC,Prospect Capital Corp,After Market Close,0.18
-PRU,Prudential Financial Inc,After Market Close,2.65
-RSYS,Radisys Corp,After Market Close,-0.06
-RDWR,Radware Ltd,Before Market Open,0.07
-RYN,Rayonier Inc,After Market Close,0.09
-RNWK,RealNetworks Inc,After Market Close,-
-RGC,Regal Entertainment Group,After Market Close,0.33
-STE,Steris PLC,Before Market Open,1.07
-SYNA,Synaptics Inc,After Market Close,1.09
-TTMI,TTM Technologies Inc,After Market Close,0.52
-RAS,RAIT Financial Trust,Before Market Open,0.21
-ROLL,RBC Bearings Inc,Before Market Open,0.87
-RAVE,Rave Restaurant Group Inc,Time Not Supplied,-
-SPGI,S&P Global Inc,Before Market Open,1.61
-SPSC,SPS Commerce Inc,After Market Close,0.21
-FLOW,SPX FLOW Inc,Before Market Open,-
-SCSC,ScanSource Inc,After Market Close,0.81
-SGEN,Seattle Genetics Inc,After Market Close,-0.43
-SIMO,Silicon Motion Technology Corp,After Market Close,0.62
-SBSI,Southside Bancshares Inc,Before Market Open,0.51
-SAVE,Spirit Airlines Inc,Before Market Open,0.71
-TDG,TransDigm Group Inc,Before Market Open,2.79
-THST,Truett-Hurst Inc,After Market Close,-
-TWO,Two Harbors Investment Corp,After Market Close,0.46
-UDR,UDR Inc,After Market Close,0.09
-USNA,USANA Health Sciences Inc,After Market Close,1
-ULTI,Ultimate Software Group Inc,After Market Close,0.88
-VSM,Versum Materials Inc,Before Market Open,0.51
-VNOM,Viper Energy Partners LP,After Market Close,0.3
-VSH,Vishay Intertechnology Inc,Before Market Open,0.38
-DIS,Walt Disney Co,After Market Close,1.61
-WCG,WellCare Health Plans Inc,Before Market Open,0.21
-ZEN,Zendesk Inc,After Market Close,-0.04
-AXS,AXIS Capital Holdings Ltd,After Market Close,0.23
-ALL,Allstate Corp,After Market Close,1.53
-UHAL,Amerco,After Market Close,-
-AEL,American Equity Investment Life Holding Co,After Market Close,0.68
-AINV,Apollo Investment Corp,Before Market Open,0.15
-AHL,Aspen Insurance Holdings Ltd,After Market Close,-3.56
-ASTC,Astrotech Corp,Before Market Open,-
-AYTU,Aytu BioScience Inc,Time Not Supplied,-1.78
-BGCP,BGC Partners Inc,Before Market Open,0.29
-BLMT,BSB Bancorp Inc,After Market Close,-
-BLL,Ball Corp,Before Market Open,0.52
-BRN,Barnwell Industries Inc,Time Not Supplied,-
-BHE,Benchmark Electronics Inc,After Market Close,0.37
-BERY,Berry Global Group Inc,Before Market Open,0.64
-BCO,Brinks Co,Before Market Open,0.96
-CDW,CDW Corp,Before Market Open,0.99
-CSGS,CSG Systems International Inc,After Market Close,0.65
-CSRA,CSRA Inc,After Market Close,0.47
-CSTE,Caesarstone Ltd,Before Market Open,0.27
-ELY,Callaway Golf Co,After Market Close,-0.18
-CSII,Cardiovascular Systems Inc,After Market Close,-0.04
-CRCM,Care.com Inc,Time Not Supplied,0.17
-CG,Carlyle Group LP,Before Market Open,0.6
-ROX,Castle Brands Inc,Time Not Supplied,-
-CENT,Central Garden & Pet Co,After Market Close,0.15
-CINF,Cincinnati Financial Corp,After Market Close,0.86
-CDE,Coeur Mining Inc,After Market Close,0.1
-CTSH,Cognizant Technology Solutions Corp,Before Market Open,0.97
-COHR,Coherent Inc,After Market Close,3.52
-CLCT,Collectors Universe Inc,After Market Close,-
-CFMS,ConforMIS Inc,After Market Close,-0.3
-CUZ,Cousins Properties Inc,After Market Close,0.02
-CCK,Crown Holdings Inc,After Market Close,0.79
-DHX,DHI Group Inc,Before Market Open,0.04
-DIOD,Diodes Inc,11:05AM EST,0.39
-ECHO,Echo Global Logistics Inc,After Market Close,0.19
-ENTA,Enanta Pharmaceuticals Inc,After Market Close,0.19
-ENS,EnerSys,After Market Close,1.14
-ESP,Espey MFG and Electronics Corp,Time Not Supplied,-
-ESS,Essex Property Trust Inc,After Market Close,1.08
-EEFT,Euronet Worldwide Inc,Before Market Open,1.12
-EXC,Exelon Corp,Before Market Open,0.6
-FISV,Fiserv Inc,After Market Close,1.38
-FLO,Flowers Foods Inc,After Market Close,0.15
-FONR,Fonar Corp,Before Market Open,-
-FORM,FormFactor Inc,After Market Close,0.27
-FORR,Forrester Research Inc,After Market Close,0.3
-FWRD,Forward Air Corp,After Market Close,0.62
-GGP,GGP Inc,Before Market Open,0.2
-GBDC,Golub Capital BDC Inc,After Market Close,0.32
-GPRE,Green Plains Inc,After Market Close,-0.15
-HAIN,Hain Celestial Group Inc,Before Market Open,0.43
-HAS,Hasbro Inc,Before Market Open,1.8
-HOS,Hornbeck Offshore Services Inc,After Market Close,-0.75
-HUM,Humana Inc,1:30AM EST,2
-IAC,IAC/InterActiveCorp,After Market Close,0.92
-INTL,INTL FCStone Inc,After Market Close,-
-INFN,Infinera Corp,After Market Close,-0.13
-IPHI,Inphi Corp,After Market Close,0.36
-ICE,Intercontinental Exchange Inc,Before Market Open,0.72
-IVC,Invacare Corp,After Market Close,-0.42
-ITIC,Investors Title Co,Before Market Open,-
-JEC,Jacobs Engineering Group Inc,Before Market Open,0.72
-JLL,Jones Lang LaSalle Inc,Before Market Open,4.22
-KS,KapStone Paper and Packaging Corp,After Market Close,0.39
-KERX,Keryx Biopharmaceuticals Inc,Before Market Open,-0.18
-KN,Knowles Corp,After Market Close,0.34
-LCI,Lannett Company Inc,After Market Close,0.85
-LFVN,LifeVantage Corp,After Market Close,-
-LLNW,Limelight Networks Inc,11:00AM EST,0.01
-MDU,MDU Resources Group Inc,Before Market Open,0.32
-MN,Manning & Napier Inc,After Market Close,0.09
-MTRX,Matrix Service Co,After Market Close,0.15
-MNI,McClatchy Co,Before Market Open,0.72
-KORS,Michael Kors Holdings Ltd,Before Market Open,1.29
-MC,Moelis & Co,After Market Close,0.42
-MNR,Monmouth Real Estate Investment Corp,After Market Close,0.1
-NXPI,NXP Semiconductors NV,After Market Close,1.8
-BABY,Natus Medical Inc,Before Market Open,0.54
-NCI,Navigant Consulting Inc,Before Market Open,0.4
-NNA,Navios Maritime Acquisition Corp,3:00AM EST,-0.04
-NTES,NetEase Inc,After Market Close,2.11
-ORLY,O'Reilly Automotive Inc,After Market Close,2.77
-OSUR,OraSure Technologies Inc,11:00AM EST,0.11
-OESX,Orion Energy Systems Inc,Before Market Open,-0.06
-PNNT,PennantPark Investment Corp,After Market Close,0.18
-PFGC,Performance Food Group Co,Before Market Open,0.35
-PDM,Piedmont Office Realty Trust Inc,After Market Close,0.12
-PRI,Primerica Inc,After Market Close,1.43
-PDEX,Pro-Dex Inc,Time Not Supplied,0.04
-PSEC,Prospect Capital Corp,After Market Close,0.18
-PRU,Prudential Financial Inc,After Market Close,2.65
-RSYS,Radisys Corp,After Market Close,-0.06
-RDWR,Radware Ltd,Before Market Open,0.07
-RYN,Rayonier Inc,After Market Close,0.09
-RNWK,RealNetworks Inc,After Market Close,-
-RGC,Regal Entertainment Group,After Market Close,0.33
-STE,Steris PLC,Before Market Open,1.07
-SYNA,Synaptics Inc,After Market Close,1.09
-TTMI,TTM Technologies Inc,After Market Close,0.52
-TTWO,Take-Two Interactive Software Inc,After Market Close,0.99
-TARO,Taro Pharmaceutical Industries Ltd,After Market Close,-
-TMHC,Taylor Morrison Home Corp,Before Market Open,0.7
-TTGT,TechTarget Inc,After Market Close,0.15
-TSLA,Tesla Inc,After Market Close,-3.1
-TKR,Timken Co,Before Market Open,0.68
-TMK,Torchmark Corp,After Market Close,1.23
-TNET,TriNet Group Inc,After Market Close,0.47
-TBI,TrueBlue Inc,After Market Close,0.48
-FOXA,Twenty-First Century Fox Inc,After Market Close,0.39
-WD,Walker & Dunlop Inc,Before Market Open,1.02
-XPO,XPO Logistics Inc,After Market Close,0.43
-XEL,Xcel Energy Inc,Before Market Open,-
-YELP,Yelp Inc,After Market Close,0.05
-ZAYO,Zayo Group Holdings Inc,Before Market Open,0.12
-ZNGA,Zynga Inc,11:05AM EST,0.03
-PLUS,ePlus inc,After Market Close,0.84
-IRBT,iRobot Corp,After Market Close,0.25
-PSDV,pSivida Corp,After Market Close,-0.15
-ATEN,A10 Networks Inc,After Market Close,0.03
-ATVI,Activision Blizzard Inc,After Market Close,0.93
-WMS,Advanced Drainage Systems Inc,Before Market Open,-
-HIVE,Aerohive Networks Inc,After Market Close,-
-AEMD,Aethlon Medical Inc,After Market Close,-
-ALXN,Alexion Pharmaceuticals Inc,Before Market Open,1.28
-ALNY,Alnylam Pharmaceuticals Inc,Before Market Open,-1.4
-AIG,American International Group Inc,After Market Close,0.78
-AIZ,Assurant Inc,After Market Close,1.6
-AVNW,Aviat Networks Inc,After Market Close,-
-BKJ,Bancorp of New Jersey Inc,Time Not Supplied,-
-BECN,Beacon Roofing Supply Inc,After Market Close,0.54
-BWA,BorgWarner Inc,Before Market Open,1.01
-BFAM,Bright Horizons Family Solutions Inc,After Market Close,0.69
-BRS,Bristow Group Inc,After Market Close,-0.65
-BR,Broadridge Financial Solutions Inc,Before Market Open,0.54
-BPY,Brookfield Property Partners LP,Before Market Open,-
-BRKR,Bruker Corp,After Market Close,0.49
-CBL,CBL & Associates Properties Inc,After Market Close,0.15
-CBG,CBRE Group Inc,1:59AM EST,0.92
-CSWI,CSW Industrials Inc,Before Market Open,-
-CVS,CVS Health Corp,Before Market Open,1.89
-CALD,Callidus Software Inc,After Market Close,0.11
-CPN,Calpine Corp,Before Market Open,0.05
-CBM,Cambrex Corp,Before Market Open,1.12
-CAH,Cardinal Health Inc,Before Market Open,1.15
-CSL,Carlisle Companies Inc,11:00AM EST,0.97
-CDR,Cedar Realty Trust Inc,After Market Close,0.03
-CETV,Central European Media Enterprises Ltd,Before Market Open,-
-CJJD,China Jo-Jo Drugstores Inc,Before Market Open,-
-CIVI,Civitas Solutions Inc,After Market Close,0.16
-COLM,Columbia Sportswear Co,11:00AM EST,1.15
-CPSI,Computer Programs and Systems Inc,After Market Close,0.46
-CTRL,Control4 Corp,After Market Close,0.35
-COR,CoreSite Realty Corp,Before Market Open,0.47
-OFC,Corporate Office Properties Trust,After Market Close,0.28
-COTY,Coty Inc,Before Market Open,0.23
-EMCI,EMC Insurance Group Inc,Before Market Open,0.67
-EQT,EQT Corp,Before Market Open,0.25
-EML,Eastern Co,Time Not Supplied,-
-EPC,Edgewell Personal Care Co,Before Market Open,0.58
-ELLI,Ellie Mae Inc,After Market Close,0.25
-EARN,Ellington Residential Mortgage REIT,After Market Close,0.42
-EXPE,Expedia Inc,After Market Close,1.15
-FFG,FBL Financial Group Inc,After Market Close,1.05
-FEYE,FireEye Inc,After Market Close,-0.01
-FAF,First American Financial Corp,1:45AM EST,0.92
-FLT,Fleetcor Technologies Inc,After Market Close,2.33
-FLDM,Fluidigm Corp,After Market Close,-0.39
-FTV,Fortive Corp,After Market Close,0.78
-FET,Forum Energy Technologies Inc,After Market Close,-0.03
-GLPI,Gaming and Leisure Properties Inc,2:00AM EST,0.45
-GWR,Genesee & Wyoming Inc,Before Market Open,0.75
-GLUU,Glu Mobile Inc,After Market Close,-0.03
-GT,Goodyear Tire & Rubber Co,Before Market Open,0.76
-GRIF,Griffin Industrial Realty Inc,Time Not Supplied,-
-GPI,Group 1 Automotive Inc,Before Market Open,1.9
-GRUB,GrubHub Inc,Before Market Open,0.31
-HNI,HNI Corp,After Market Close,0.42
-HRG,HRG Group Inc,Before Market Open,-
-HBI,HanesBrands Inc,Before Market Open,0.52
-HIG,Hartford Financial Services Group Inc,After Market Close,0.77
-HOLI,Hollysys Automation Technologies Ltd,After Market Close,0.39
-HOLX,Hologic Inc,After Market Close,0.5
-HDP,Hortonworks Inc,After Market Close,-0.24
-HUBG,Hub Group Inc,After Market Close,0.52
-IMPV,Imperva Inc,After Market Close,0.27
-INVA,Innoviva Inc,After Market Close,0.42
-KKR,KKR & Co LP,Before Market Open,0.52
-K,Kellogg Co,Before Market Open,0.96
-KNL,Knoll Inc,After Market Close,0.42
-LCII,LCI Industries,Before Market Open,1.16
-MCFT,MCBC Holdings Inc,After Market Close,0.33
-MD,MEDNAX Inc,Before Market Open,0.84
-MMYT,MakeMyTrip Ltd,Before Market Open,-0.52
-MANU,Manchester United PLC,2:00AM EST,8.77
-MTW,Manitowoc Company Inc,After Market Close,-0.05
-MAS,Masco Corp,2:00AM EST,0.44
-MMS,Maximus Inc,1:30AM EST,0.74
-MPW,Medical Properties Trust Inc,Before Market Open,0.24
-MDSO,Medidata Solutions Inc,Before Market Open,0.31
-MTD,Mettler-Toledo International Inc,After Market Close,5.93
-MOBL,MobileIron Inc,After Market Close,-0.03
-MHK,Mohawk Industries Inc,After Market Close,3.32
-MPWR,Monolithic Power Systems Inc,After Market Close,0.8
-NCR,NCR Corp,After Market Close,0.87
-NVDA,NVIDIA Corp,After Market Close,1.16
-NPK,National Presto Industries Inc,After Market Close,-
-UEPS,Net 1 UEPS Technologies Inc,After Market Close,0.38
-NJR,New Jersey Resources Corp,Before Market Open,0.59
-NYT,New York Times Co,Before Market Open,0.29
-NR,Newpark Resources Inc,After Market Close,0.03
-NWSA,News Corp,After Market Close,0.2
-NXEO,Nexeo Solutions Inc,Time Not Supplied,0.07
-NLSN,Nielsen Holdings PLC,Before Market Open,0.8
-NS,NuStar Energy LP,Before Market Open,0.2
-NSH,NuStar GP Holdings LLC,Before Market Open,0.24
-NUAN,Nuance Communications Inc,After Market Close,0.26
-OCSL,Oaktree Specialty Lending Corp,Before Market Open,0.1
-ODFL,Old Dominion Freight Line Inc,Before Market Open,1.12
-OFLX,Omega Flex Inc,Time Not Supplied,-
-ONVO,Organovo Holdings Inc,Before Market Open,-0.09
-PTEN,Patterson-UTI Energy Inc,Before Market Open,-0.08
-PCTY,Paylocity Holding Corp,After Market Close,0.12
-PENN,Penn National Gaming Inc,2:00AM EST,0.18
-PFLT,PennantPark Floating Rate Capital Ltd,After Market Close,0.26
-PFSI,PennyMac Financial Services Inc,After Market Close,0.67
-PMT,PennyMac Mortgage Investment Trust,After Market Close,0.33
-PAG,Penske Automotive Group Inc,Before Market Open,1
-PM,Philip Morris International Inc,Before Market Open,1.35
-PLUG,Plug Power Inc,Before Market Open,-0.07
-PRLB,Proto Labs Inc,Before Market Open,0.56
-QTM,Quantum Corp,After Market Close,0.17
-REG,Regency Centers Corp,After Market Close,0.33
-REGN,Regeneron Pharmaceuticals Inc,Before Market Open,4.52
-RSG,Republic Services Inc,After Market Close,0.57
-RGLD,Royal Gold Inc,Before Market Open,0.42
-SBH,Sally Beauty Holdings Inc,Before Market Open,0.43
-SEE,Sealed Air Corp,Before Market Open,0.57
-SXT,Sensient Technologies Corp,After Market Close,0.84
-SKX,Skechers USA Inc,After Market Close,0.13
-SNA,Snap-On Inc,Before Market Open,2.66
-SPB,Spectrum Brands Holdings Inc,Before Market Open,1.29
-STC,Stewart Information Services Corp,1:15AM EST,0.63
-SPH,Suburban Propane Partners LP,Before Market Open,0.88
-SNBC,Sun Bancorp Inc,Before Market Open,0.14
-TCO,Taubman Centers Inc,After Market Close,0.27
-TCCO,Technical Communications Corp,Before Market Open,-
-TDC,Teradata Corp,Before Market Open,0.51
-THR,Thermon Group Holdings Inc,Before Market Open,0.19
-TZOO,Travelzoo,Before Market Open,0.01
-TRMB,Trimble Inc,After Market Close,0.37
-TRT,Trio-Tech International,Time Not Supplied,-
-TWTR,Twitter Inc,Before Market Open,0.14
-TSN,Tyson Foods Inc,Before Market Open,1.5
-USAT,USA Technologies Inc,Before Market Open,0.01
-UBNT,Ubiquiti Networks Inc,Before Market Open,0.89
-UIS,Unisys Corp,After Market Close,0.1
-VRSN,Verisign Inc,11:05AM EST,0.97
-VSAT,ViaSat Inc,After Market Close,-0.04
-VIAB,Viacom Inc,Before Market Open,0.94
-VIRT,Virtu Financial Inc,Before Market Open,0.12
-VRTU,Virtusa Corp,Before Market Open,0.45
-VSTO,Vista Outdoor Inc,Before Market Open,0.06
-GRA,W. R. Grace & Co,1:00AM EST,0.97
-WSO,Watsco Inc,Before Market Open,1
-WEB,Web.com Group Inc,After Market Close,0.76
-WAIR,Wesco Aircraft Holdings Inc,After Market Close,0.13
-WHG,Westwood Holdings Group Inc,After Market Close,-
-WLTW,Willis Towers Watson PLC,Before Market Open,2.11
-WWE,World Wrestling Entertainment Inc,Before Market Open,0.19
-YUM,Yum! Brands Inc,Before Market Open,0.8
-ZG,Zillow Group Inc,After Market Close,0.19
-ARWR,Arrowhead Pharmaceuticals Inc,After Market Close,-0.16
-BLX,Banco Latinoamericano de Comercio Exterior SA,Before Market Open,0.55
-BIP,Brookfield Infrastructure Partners LP,2:00AM EST,0.56
-BPL,Buckeye Partners LP,Before Market Open,0.9
-CBOE,Cboe Global Markets Inc,Before Market Open,0.88
-ESNT,Essent Group Ltd,Before Market Open,0.79
-GRC,Gorman-Rupp Co,1:30AM EST,0.31
-IMGN,ImmunoGen Inc,Before Market Open,-0.12
-MBUU,Malibu Boats Inc,Before Market Open,0.48
-MCO,Moody's Corp,Before Market Open,1.44
-NGL,NGL Energy Partners LP,Before Market Open,0.19
-OCSI,Oaktree Strategic Income Corporation,Before Market Open,0.19
-PCG,PG&E Corp,Time Not Supplied,0.68
-TEN,Tenneco Inc,Before Market Open,1.64
-VTR,Ventas Inc,Before Market Open,0.63
+Ticker,Company,Earnings Call Time,EPS Estimate,,
+ASPS,Altisource Portfolio Solutions SA,Time Not Supplied,0.61,,
+CRMT,America's CAR-MART Inc,After Market Close,0.55,,
+BSQR,Bsquare Corp,After Market Close,-,,
+CFBK,Central Federal Corp,Time Not Supplied,-,,
+CNV,Cnova NV,8:45PM EST,-,,
+CPRT,Copart Inc,After Market Close,0.40,,
+DAC,Danaos Corp,After Market Close,0.21,,
+DEPO,Depomed Inc,After Market Close,0.10,,
+DDS,Dillard's Inc,After Market Close,1.76,,
+ENTL,Entellus Medical Inc,After Market Close,-0.44,,
+EXAC,Exactech Inc,After Market Close,0.38,,
+EXPD,Expeditors International of Washington Inc,Before Market Open,0.63,,
+GHDX,Genomic Health Inc,After Market Close,0.07,,
+THRM,Gentherm Inc,Time Not Supplied,0.52,,
+SUPV,Grupo Supervielle SA,After Market Close,0.52,,
+HCLP,Hi Crush Partners LP,After Market Close,0.51,,
+IGC,India Globalization Capital Inc,Before Market Open,-,,
+MORN,Morningstar Inc,After Market Close,-,,
+MOS,Mosaic Co,After Market Close,0.29,,
+NBLX,Noble Midstream Partners LP,After Market Close,1.15,,
+PSB,PS Business Parks Inc,After Market Close,0.61,,
+PZZA,Papa John's International Inc,12:00PM EST,0.68,,
+RMAX,Re/Max Holdings Inc,After Market Close,-,,
+RWLK,Rewalk Robotics Ltd,Before Market Open,-0.26,,
+SEB,Seaboard Corp,After Market Close,-,,
+SSNI,Silver Spring Networks Inc,After Market Close,0.07,,
+SRT,StarTek Inc,After Market Close,0.01,,
+SPN,Superior Energy Services Inc,After Market Close,-0.32,,
+TSE,Trinseo SA,After Market Close,2.06,,
+UUU,Universal Security Instruments Inc,Time Not Supplied,-,,
+XCRA,Xcerra Corp,Before Market Open,0.15,,
+JOBS,51job Inc,After Market Close,0.64,,
+ALLE,Allegion PLC,Before Market Open,0.93,,
+ACC,American Campus Communities Inc,After Market Close,0.37,,
+AWK,American Water Works Company Inc,After Market Close,0.66,,
+ASTE,Astec Industries Inc,Before Market Open,0.44,,
+AGR,Avangrid Inc,Before Market Open,0.65,,
+BYD,Boyd Gaming Corp,After Market Close,0.27,,
+CATM,Cardtronics PLC,After Market Close,0.63,,
+CHEF,Chefs' Warehouse Inc,After Market Close,0.22,,
+CBI,Chicago Bridge & Iron Company NV,11:15AM EST,0.47,,
+CHH,Choice Hotels International Inc,Before Market Open,0.63,,
+CXO,Concho Resources Inc,After Market Close,0.45,,
+CTB,Cooper Tire & Rubber Co,Before Market Open,0.63,,
+CBRL,Cracker Barrel Old Country Store Inc,Before Market Open,2.31,,
+CEQP,Crestwood Equity Partners LP,Before Market Open,0.04,,
+CTRP,Ctrip.Com International Ltd,After Market Close,0.16,,
+DAKT,Daktronics Inc,Before Market Open,-0.03,,
+DVN,Devon Energy Corp,After Market Close,0.63,,
+DIN,DineEquity Inc,Before Market Open,0.69,,
+DPZ,Domino's Pizza Inc,Before Market Open,1.95,,
+DORM,Dorman Products Inc,Before Market Open,0.87,,
+DUK,Duke Energy Corp,2:00AM EST,0.92,,
+EV,Eaton Vance Corp,Before Market Open,0.73,,
+ECL,Ecolab Inc,Before Market Open,1.39,,
+EDR,Education Realty Trust Inc,Before Market Open,0.25,,
+ENLC,EnLink Midstream LLC,After Market Close,0.17,,
+ENLK,EnLink Midstream Partners LP,After Market Close,0.06,,
+ENBL,Enable Midstream Partners LP,Before Market Open,0.21,,
+EGN,Energen Corp,1:00AM EST,0.42,,
+ETM,Entercom Communications Corp,Before Market Open,0.28,,
+ENZY,Enzymotec Ltd,Before Market Open,0.07,,
+ESPR,Esperion Therapeutics Inc,Before Market Open,-1.79,,
+EXR,Extra Space Storage Inc,After Market Close,0.70,,
+FPI,Farmland Partners Inc,After Market Close,0.06,,
+FE,FirstEnergy Corp,After Market Close,0.68,,
+FTK,Flotek Industries Inc,After Market Close,-0.03,,
+FLR,Fluor Corp,After Market Close,0.63,,
+FCPT,Four Corners Property Trust Inc,After Market Close,0.24,,
+FELE,Franklin Electric Co Inc,3:00AM EST,0.44,,
+FDP,Fresh Del Monte Produce Inc,Before Market Open,-,,
+GCI,Gannett Co Inc,Before Market Open,0.46,,
+GEN,Genesis Healthcare Inc,After Market Close,-0.27,,
+GPC,Genuine Parts Co,Before Market Open,1.04,,
+LAND,Gladstone Land Corp,After Market Close,-0.01,,
+GOGL,Golden Ocean Group Ltd,Time Not Supplied,0.13,,
+GLDD,Great Lakes Dredge & Dock Corp,3:00AM EST,-0.09,,
+GLRE,Greenlight Capital Re Ltd,After Market Close,-0.55,,
+HSNI,HSN Inc,Before Market Open,0.89,,
+HALO,Halozyme Therapeutics Inc,After Market Close,0.72,,
+HVT,Haverty Furniture Companies Inc,After Market Close,0.30,,
+HSTM,HealthStream Inc,After Market Close,0.03,,
+HLX,Helix Energy Solutions Group Inc,Before Market Open,-0.01,,
+HSIC,Henry Schein Inc,Before Market Open,0.97,,
+HEP,Holly Energy Partners LP,Before Market Open,0.47,,
+HD,Home Depot Inc,Before Market Open,1.62,,
+ICON,Iconix Brand Group Inc,Time Not Supplied,-,,
+IRT,Independence Realty Trust Inc,Before Market Open,0.08,,
+NGVT,Ingevity Corp,After Market Close,0.36,,
+INOV,Inovalon Holdings Inc,After Market Close,0.07,,
+IVR,Invesco Mortgage Capital Inc,After Market Close,0.43,,
+KAR,KAR Auction Services Inc,Before Market Open,0.53,,
+KRA,Kraton Corp,After Market Close,0.64,,
+LZB,La-Z-Boy Inc,After Market Close,0.46,,
+LHO,LaSalle Hotel Properties,After Market Close,0.15,,
+LC,LendingClub Corp,After Market Close,0.02,,
+LPSN,LivePerson Inc,After Market Close,0.01,,
+MGP,MGM Growth Properties LLC,Before Market Open,0.18,,
+MGM,MGM Resorts International,Before Market Open,0.08,,
+MSA,MSA Safety Inc,After Market Close,0.94,,
+MATX,Matson Inc,After Market Close,0.30,,
+MLP,Maui Land & Pineapple Company Inc,Time Not Supplied,-,,
+MDT,Medtronic PLC,Before Market Open,1.17,,
+MCRN,Milacron Holdings Corp,Before Market Open,0.39,,
+MCRI,Monarch Casino & Resort Inc,After Market Close,0.41,,
+NSM,Nationstar Mortgage Holdings Inc,Before Market Open,0.44,,
+NCI,Navigant Consulting Inc,Before Market Open,0.40,,
+NYMT,New York Mortgage Trust Inc,After Market Close,0.15,,
+NFX,Newfield Exploration Co,After Market Close,0.62,,
+NI,NiSource Inc,Before Market Open,0.32,,
+NBL,Noble Energy Inc,Before Market Open,0.04,,
+OCN,Ocwen Financial Corp,Before Market Open,-0.25,,
+OR,Osisko gold royalties Ltd,Before Market Open,-,,
+POPE,Pope Resources A Delaware LP,Before Market Open,-,,
+PSA,Public Storage,Time Not Supplied,1.98,,
+QTS,QTS Realty Trust Inc,After Market Close,0.16,,
+QUAD,Quad/Graphics Inc,After Market Close,0.58,,
+RDNT,RadNet Inc,Before Market Open,0.11,,
+RPT,Ramco-Gershenson Properties Trust,After Market Close,0.05,,
+RYAM,Rayonier Advanced Materials Inc,Before Market Open,0.14,,
+RCII,Rent-A-Center Inc,After Market Close,-0.07,,
+RMP,Rice Midstream Partners LP,After Market Close,0.44,,
+ROG,Rogers Corp,After Market Close,1.42,,
+SAFT,Safety Insurance Group Inc,Time Not Supplied,0.80,,
+SITE,SiteOne Landscape Supply Inc,Before Market Open,-0.05,,
+SIX,Six Flags Entertainment Corp,Before Market Open,0.12,,
+STFC,State Auto Financial Corp,Before Market Open,0.34,,
+TPH,TRI Pointe Group Inc,Before Market Open,0.63,,
+TX,Ternium SA,After Market Close,0.64,,
+TXRH,Texas Roadhouse Inc,After Market Close,0.37,,
+RIG,Transocean Ltd,After Market Close,-0.27,,
+TVPT,Travelport Worldwide Ltd,Before Market Open,0.23,,
+UPL,Ultra Petroleum Corp,Before Market Open,0.47,,
+RARE,Ultragenyx Pharmaceutical Inc,After Market Close,-1.99,,
+UVE,Universal Insurance Holdings Inc,After Market Close,0.79,,
+VVC,Vectren Corp,After Market Close,0.76,,
+VRSK,Verisk Analytics Inc,After Market Close,0.78,,
+WMT,Walmart Inc,1:30AM EST,1.37,,
+WAB,Westinghouse Air Brake Technologies Corp,Before Market Open,0.92,,
+WLK,Westlake Chemical Corp,Before Market Open,1.68,,
+WLKP,Westlake Chemical Partners LP,Before Market Open,0.45,,
+WLH,William Lyon Homes,Before Market Open,0.85,,
+BLUE,bluebird bio Inc,After Market Close,-1.70,,
+TRNC,tronc Inc,After Market Close,0.65,,
+ANSS,ANSYS Inc,After Market Close,1.03,,
+ATNI,ATN International Inc,After Market Close,-0.18,,
+AXTI,AXT Inc,After Market Close,0.08,,
+ACHC,Acadia Healthcare Company Inc,After Market Close,0.54,,
+AKR,Acadia Realty Trust,After Market Close,0.08,,
+AAP,Advance Auto Parts Inc,Before Market Open,0.63,,
+Y,Alleghany Corp,After Market Close,5.40,,
+AIMC,Altra Industrial Motion Corp,Before Market Open,0.47,,
+ANIK,Anika Therapeutics Inc,After Market Close,0.44,,
+AAOI,Applied Optoelectronics Inc,After Market Close,0.83,,
+ATRI,Atrion Corp,After Market Close,-,,
+CAR,Avis Budget Group Inc,After Market Close,0.21,,
+AVA,Avista Corp,2:05AM EST,0.52,,
+BH,Biglari Holdings Inc,Time Not Supplied,-1.65,,
+BPMC,Blueprint Medicines Corp,Before Market Open,-1.11,,
+SAM,Boston Beer Company Inc,After Market Close,0.87,,
+BPI,Bridgepoint Education Inc,After Market Close,-0.13,,
+BSFT,BroadSoft Inc,Before Market Open,1.20,,
+BYFC,Broadway Financial Corp,Time Not Supplied,-,,
+BURL,Burlington Stores Inc,Before Market Open,2.08,,
+CECO,Career Education Corp,After Market Close,0.05,,
+CSLT,Castlight Health Inc,After Market Close,-0.05,,
+CAKE,Cheesecake Factory Inc,After Market Close,0.53,,
+LNG,Cheniere Energy Inc,Before Market Open,0.46,,
+CCO,Clear Channel Outdoor Holdings Inc,Before Market Open,0.03,,
+CSGP,CoStar Group Inc,After Market Close,1.25,,
+CLR,Continental Resources Inc,After Market Close,0.31,,
+CVG,Convergys Corp,After Market Close,0.45,,
+CPA,Copa Holdings SA,After Market Close,2.34,,
+COTV,Cotiviti Holdings Inc,After Market Close,0.43,,
+CW,Curtiss-Wright Corp,After Market Close,1.46,,
+CONE,CyrusOne Inc,After Market Close,0.06,,
+DISH,DISH Network Corp,Before Market Open,0.55,,
+DHIL,Diamond Hill Investment Group Inc,Time Not Supplied,-,,
+DYN,Dynegy Inc,After Market Close,-0.42,,
+DX,Dynex Capital Inc,3:00AM EST,0.19,,
+ESRT,Empire State Realty Trust Inc,After Market Close,0.19,,
+EIG,Employers Holdings Inc,After Market Close,0.56,,
+ECPG,Encore Capital Group Inc,After Market Close,0.94,,
+ELGX,Endologix Inc,After Market Close,-0.21,,
+ETE,Energy Transfer Equity LP,After Market Close,0.34,,
+SXL,Energy Transfer Partners LP,After Market Close,-,,
+ESCA,Escalade Inc,Before Market Open,0.29,,
+ESND,Essendant Inc,After Market Close,-0.06,,
+EVTC,Evertec Inc,After Market Close,0.23,,
+EYEG,EyeGate Pharmaceuticals Inc,Time Not Supplied,-0.24,,
+FARO,FARO Technologies Inc,After Market Close,0.35,,
+FR,First Industrial Realty Trust Inc,After Market Close,0.15,,
+FIVN,Five9 Inc,After Market Close,0.04,,
+GRMN,Garmin Ltd,Before Market Open,0.75,,
+GMED,Globus Medical Inc,After Market Close,0.35,,
+LOPE,Grand Canyon Education Inc,After Market Close,1.10,,
+GXP,Great Plains Energy Inc,After Market Close,0.13,,
+GDOT,Green Dot Corp,After Market Close,0.25,,
+GPOR,Gulfport Energy Corp,After Market Close,0.39,,
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,After Market Close,0.32,,
+HT,Hersha Hospitality Trust,After Market Close,-0.21,,
+HFC,HollyFrontier Corp,Before Market Open,0.83,,
+HST,Host Hotels & Resorts Inc,After Market Close,0.15,,
+IMH,Impac Mortgage Holdings Inc,After Market Close,0.24,,
+IPHS,Innophos Holdings Inc,Before Market Open,0.55,,
+PODD,Insulet Corp,After Market Close,-0.08,,
+TILE,Interface Inc,After Market Close,0.30,,
+JACK,Jack in the Box Inc,After Market Close,1.06,,
+KALU,Kaiser Aluminum Corp,After Market Close,1.22,,
+KNOP,Knot Offshore Partners LP,Before Market Open,0.54,,
+KOP,Koppers Holdings Inc,Before Market Open,0.47,,
+LADR,Ladder Capital Corp,After Market Close,0.43,,
+LAWS,Lawson Products Inc,Before Market Open,0.16,,
+LGCY,Legacy Reserves LP,After Market Close,0.09,,
+LSI,Life Storage Inc,After Market Close,0.77,,
+LGND,Ligand Pharmaceuticals Inc,Before Market Open,1.19,,
+CLI,Mack-Cali Realty Corp,After Market Close,-,,
+MIC,Macquarie Infrastructure Corp,After Market Close,0.51,,
+TUSK,Mammoth Energy Services Inc,After Market Close,0.51,,
+MANT,ManTech International Corp,After Market Close,0.39,,
+DOOR,Masonite International Corp,After Market Close,0.84,,
+MTDR,Matador Resources Co,After Market Close,0.24,,
+MDR,McDermott International Inc,Before Market Open,0.03,,
+MDCO,Medicines Co,Before Market Open,-1.28,,
+MED,Medifast Inc,After Market Close,0.48,,
+MNDO,Mind CTI Ltd,Before Market Open,-,,
+MB,Mindbody Inc,After Market Close,0.01,,
+MNTA,Momenta Pharmaceuticals Inc,Before Market Open,-0.31,,
+NCMI,National CineMedia Inc,After Market Close,0.21,,
+NEO,Neogenomics Inc,Before Market Open,0.04,,
+NE,Noble Corporation PLC,After Market Close,-0.32,,
+OGS,ONE Gas Inc,After Market Close,0.89,,
+OMED,OncoMed Pharmaceuticals Inc,After Market Close,-0.34,,
+OC,Owens Corning,Before Market Open,1.04,,
+PDLI,PDL BioPharma Inc,After Market Close,0.03,,
+PRAH,PRA Health Sciences Inc,After Market Close,1.03,,
+PRGX,PRGX Global Inc,11:00AM EST,0.14,,
+PACD,Pacific Drilling SA,Before Market Open,-,,
+P,Pandora Media Inc,After Market Close,-0.08,,
+PE,Parsley Energy Inc,After Market Close,0.17,,
+PEGA,Pegasystems Inc,After Market Close,0.15,,
+PRA,ProAssurance Corp,After Market Close,0.62,,
+QDEL,Quidel Corp,After Market Close,0.20,,
+RPXC,RPX Corp,After Market Close,0.13,,
+O,Realty Income Corp,After Market Close,0.32,,
+ROIC,Retail Opportunity Investments Corp,After Market Close,0.09,,
+RUTH,Ruth's Hospitality Group Inc,Before Market Open,0.38,,
+SM,SM Energy Co,After Market Close,-0.14,,
+SP,SP Plus Corp,After Market Close,0.40,,
+SBRA,Sabra Health Care REIT Inc,After Market Close,0.31,,
+SWM,Schweitzer-Mauduit International Inc,After Market Close,0.61,,
+SEM,Select Medical Holdings Corp,After Market Close,0.19,,
+SO,Southern Co,2:30AM EST,0.46,,
+SPTN,SpartanNash Co,After Market Close,0.41,,
+STMP,Stamps.Com Inc,11:30AM EST,2.72,,
+SRCL,Stericycle Inc,After Market Close,1.14,,
+SSFN,Stewardship Financial Corp,After Market Close,-,,
+SGY,Stone Energy Corp,After Market Close,0.01,,
+RGR,Sturm Ruger & Company Inc,After Market Close,0.77,,
+INN,Summit Hotel Properties Inc,After Market Close,0.04,,
+SUI,Sun Communities Inc,After Market Close,0.18,,
+SUN,Sunoco LP,After Market Close,0.35,,
+SGC,Superior Uniform Group Inc,Before Market Open,0.29,,
+SNPS,Synopsys Inc,After Market Close,1.00,,
+TSLX,TPG Specialty Lending Inc,After Market Close,0.45,,
+TTS,Tile Shop Holdings Inc,3:00AM EST,0.05,,
+TG,Tredegar Corp,After Market Close,-,,
+TREX,Trex Company Inc,After Market Close,0.54,,
+TRN,Trinity Industries Inc,After Market Close,0.42,,
+TYL,Tyler Technologies Inc,After Market Close,1.04,,
+SLCA,U.S. Silica Holdings Inc,Before Market Open,0.55,,
+UTHR,United Therapeutics Corp,Before Market Open,3.89,,
+VDSI,VASCO Data Security International Inc,After Market Close,0.05,,
+VIP,VEON Ltd,8:00PM EST,-,,
+VMI,Valmont Industries Inc,After Market Close,1.69,,
+VSAR,Versartis Inc,After Market Close,-0.93,,
+VG,Vonage Holdings Corp,Before Market Open,0.09,,
+WEX,WEX Inc,Before Market Open,1.46,,
+WPX,WPX Energy Inc,After Market Close,-0.08,,
+WAGE,WageWorks Inc,After Market Close,0.42,,
+WPG,Washington Prime Group Inc,After Market Close,0.10,,
+WRI,Weingarten Realty Investors,After Market Close,0.27,,
+WEN,Wendys Co,After Market Close,0.11,,
+WR,Westar Energy Inc,After Market Close,0.40,,
+WLL,Whiting Petroleum Corp,After Market Close,-0.30,,
+WWW,Wolverine World Wide Inc,1:30AM EST,0.41,,
+IPAS,iPass Inc,After Market Close,-0.07,,
+ACIW,ACI Worldwide Inc,Before Market Open,0.43,,
+ADMA,ADMA Biologics Inc,Time Not Supplied,-0.31,,
+AVHI,AV Homes Inc,After Market Close,0.41,,
+ACIA,Acacia Communications Inc,After Market Close,0.25,,
+ATV,Acorn International Inc,Before Market Open,-,,
+ADSW,Advanced Disposal Services Inc,After Market Close,0.14,,
+ADC,Agree Realty Corp,After Market Close,0.39,,
+AL,Air Lease Corp,After Market Close,0.86,,
+AWF,AllianceBernstein Global High Income Fund Inc,Time Not Supplied,-,,
+LNT,Alliant Energy Corp,After Market Close,0.36,,
+AMH,American Homes 4 Rent,After Market Close,0.03,,
+APA,Apache Corp,3:00AM EST,0.22,,
+APLE,Apple Hospitality REIT Inc,After Market Close,0.17,,
+AROC,Archrock Inc,Before Market Open,-0.07,,
+APLP,Archrock Partners LP,Before Market Open,0.08,,
+AFC,Arsenal Holdings PLC,Time Not Supplied,-,,
+AGO,Assured Guaranty Ltd,After Market Close,0.66,,
+AAWW,Atlas Air Worldwide Holdings Inc,Before Market Open,2.15,,
+BJRI,BJ's Restaurants Inc,After Market Close,0.32,,
+BEAT,BioTelemetry Inc,11:00AM EST,0.24,,
+ORPN,Bioblast Pharma Ltd,Time Not Supplied,-,,
+BMRN,Biomarin Pharmaceutical Inc,After Market Close,-0.24,,
+BLMN,Bloomin' Brands Inc,Before Market Open,0.39,,
+BRC,Brady Corp,Before Market Open,0.44,,
+BCOV,Brightcove Inc,After Market Close,-0.03,,
+CVI,CVR Energy Inc,Before Market Open,0.12,,
+UAN,CVR Partners LP,Before Market Open,-0.16,,
+CVRR,CVR Refining LP,Before Market Open,0.20,,
+CCC,Calgon Carbon Corp,Before Market Open,0.15,,
+CLMT,Calumet Specialty Products Partners LP,Before Market Open,-0.26,,
+CNP,CenterPoint Energy Inc,Before Market Open,0.30,,
+CENX,Century Aluminum Co,After Market Close,0.24,,
+GTLS,Chart Industries Inc,Before Market Open,0.31,,
+CHK,Chesapeake Energy Corp,Before Market Open,0.24,,
+CCOI,Cogent Communications Holdings Inc,2:00AM EST,0.12,,
+CSTM,Constellium NV,Before Market Open,0.10,,
+CBPX,Continental Building Products Inc,After Market Close,0.33,,
+CORT,Corcept Therapeutics Inc,After Market Close,0.18,,
+CVA,Covanta Holding Corp,After Market Close,0.21,,
+DFRG,Del Frisco's Restaurant Group Inc,Before Market Open,0.43,,
+DNR,Denbury Resources Inc,Before Market Open,0.07,,
+DSX,Diana Shipping Inc,Before Market Open,-0.15,,
+EME,EMCOR Group Inc,Before Market Open,0.86,,
+SATS,EchoStar Corp,Before Market Open,0.31,,
+EIX,Edison International,Time Not Supplied,0.92,,
+EBS,Emergent BioSolutions Inc,After Market Close,0.70,,
+ENV,Envestnet Inc,After Market Close,0.39,,
+EVA,Enviva Partners LP,Before Market Open,0.31,,
+ERIE,Erie Indemnity Co,After Market Close,0.76,,
+EXAS,Exact Sciences Corp,After Market Close,-0.24,,
+FCN,FTI Consulting Inc,Before Market Open,0.50,,
+FNGN,Financial Engines Inc,After Market Close,0.37,,
+FSLR,First Solar Inc,After Market Close,-0.31,,
+ROCK,Gibraltar Industries Inc,2:30AM EST,0.34,,
+GSAT,Globalstar Inc,After Market Close,-0.02,,
+GDDY,GoDaddy Inc,After Market Close,0.09,,
+GOGO,Gogo Inc,Before Market Open,-0.48,,
+GSBD,Goldman Sachs BDC Inc,After Market Close,0.47,,
+GHC,Graham Holdings Co,Before Market Open,-,,
+HEES,H&E Equipment Services Inc,Before Market Open,0.41,,
+HPQ,HP Inc,After Market Close,0.42,,
+HSC,Harsco Corp,Before Market Open,0.14,,
+HLF,Herbalife Ltd,After Market Close,0.96,,
+HTGC,Hercules Capital Inc,After Market Close,0.29,,
+HPE,Hewlett Packard Enterprise Co,After Market Close,0.22,,
+HRL,Hormel Foods Corp,Before Market Open,0.43,,
+HMHC,Houghton Mifflin Harcourt Co,Before Market Open,-0.90,,
+IDA,Idacorp Inc,Before Market Open,0.67,,
+IMMR,Immersion Corp,After Market Close,-0.18,,
+ITGR,Integer Holdings Corp,After Market Close,0.79,,
+IDCC,InterDigital Inc,Before Market Open,2.47,,
+INTU,Intuit Inc,After Market Close,0.34,,
+IRDM,Iridium Communications Inc,Before Market Open,0.10,,
+JAKK,JAKKS Pacific Inc,Before Market Open,-0.14,,
+KW,Kennedy-Wilson Holdings Inc,After Market Close,0.01,,
+LKQ,LKQ Corp,Before Market Open,0.42,,
+LDOS,Leidos Holdings Inc,Before Market Open,0.85,,
+TREE,LendingTree Inc,Before Market Open,0.90,,
+LXRX,Lexicon Pharmaceuticals Inc,Before Market Open,-0.41,,
+MDCA,MDC Partners Inc,After Market Close,0.20,,
+MGEE,MGE Energy Inc,Time Not Supplied,-,,
+MAIN,Main Street Capital Corp,After Market Close,0.60,,
+MCS,Marcus Corp,Before Market Open,0.36,,
+MRIN,Marin Software Inc,After Market Close,-,,
+MELI,MercadoLibre Inc,After Market Close,0.51,,
+MVIS,MicroVision Inc,After Market Close,-0.07,,
+MITL,Mitel Networks Corp,Before Market Open,0.26,,
+NKSH,National Bankshares Inc,Time Not Supplied,0.56,,
+NVRO,Nevro Corp,After Market Close,-0.14,,
+NEM,Newmont Mining Corp,Before Market Open,0.38,,
+NDSN,Nordson Corp,After Market Close,1.34,,
+NADL,North Atlantic Drilling Ltd,Time Not Supplied,-,,
+NOG,Northern Oil and Gas Inc,After Market Close,0.09,,
+NCLH,Norwegian Cruise Line Holdings Ltd,2:00AM EST,0.63,,
+NVCR,Novocure Ltd,Before Market Open,-0.11,,
+OGE,OGE Energy Corp,Before Market Open,0.28,,
+OII,Oceaneering International Inc,After Market Close,-0.10,,
+OA,Orbital ATK Inc,1:00AM EST,1.79,,
+OEC,Orion Engineered Carbons SA,After Market Close,0.44,,
+ORA,Ormat Technologies Inc,Before Market Open,0.56,,
+PPL,PPL Corp,Before Market Open,0.48,,
+PEB,Pebblebrook Hotel Trust,After Market Close,0.02,,
+PWR,Quanta Services Inc,Before Market Open,0.44,,
+RRGB,Red Robin Gourmet Burgers Inc,After Market Close,0.54,,
+RWT,Redwood Trust Inc,11:15AM EST,0.35,,
+RGC,Regal Entertainment Group,After Market Close,0.33,,
+RGEN,Repligen Corp,Before Market Open,0.12,,
+SCG,SCANA Corp,Before Market Open,0.85,,
+SAFM,Sanderson Farms Inc,Before Market Open,1.21,,
+SDRL,Seadrill Ltd,Time Not Supplied,-,,
+SDLP,Seadrill Partners LLC,Time Not Supplied,0.04,,
+SSTK,Shutterstock Inc,Before Market Open,0.34,,
+SLRC,Solar Capital Ltd,After Market Close,0.43,,
+SUNS,Solar Senior Capital Ltd,After Market Close,0.35,,
+SJI,South Jersey Industries Inc,After Market Close,0.42,,
+SRC,Spirit Realty Capital Inc,Before Market Open,0.06,,
+SFM,Sprouts Farmers Market Inc,Before Market Open,0.15,,
+GASS,StealthGas Inc,Before Market Open,0.07,,
+SCL,Stepan Co,Before Market Open,0.72,,
+STOR,Store Capital Corp,Before Market Open,0.20,,
+SMLP,Summit Midstream Partners LP,After Market Close,0.27,,
+TK,Teekay Corp,Before Market Open,-0.05,,
+TGP,Teekay LNG Partners LP,Before Market Open,0.33,,
+TOO,Teekay Offshore Partners LP,Before Market Open,0.06,,
+TNK,Teekay Tankers Ltd,Before Market Open,-0.05,,
+TFX,Teleflex Inc,Before Market Open,2.40,,
+TPX,Tempur Sealy International Inc,Before Market Open,0.83,,
+TNC,Tennant Co,Before Market Open,0.34,,
+TVTY,Tivity Health Inc,After Market Close,0.32,,
+TTC,Toro Co,Before Market Open,0.44,,
+TRTN,Triton International Ltd,After Market Close,0.80,,
+UNT,Unit Corp,Before Market Open,0.19,,
+USM,United States Cellular Corp,Before Market Open,-0.08,,
+OLED,Universal Display Corp,After Market Close,0.85,,
+UFPI,Universal Forest Products Inc,Before Market Open,0.44,,
+VER,VEREIT Inc,Before Market Open,-,,
+VC,Visteon Corp,Before Market Open,1.73,,
+W,Wayfair Inc,Before Market Open,-0.52,,
+HCN,Welltower Inc,Before Market Open,0.45,,
+WIN,Windstream Holdings Inc,Before Market Open,-0.35,,
+WING,Wingstop Inc,After Market Close,0.16,,
+WK,Workiva Inc,After Market Close,-0.22,,
+INT,World Fuel Services Corp,After Market Close,0.61,,
+ZBRA,Zebra Technologies Corp,Before Market Open,2.12,,
+ZIXI,Zix Corp,After Market Close,0.08,,
+ARII,American Railcar Industries Inc,Before Market Open,0.49,,
+ABR,Arbor Realty Trust Inc,Before Market Open,0.23,,
+COG,Cabot Oil & Gas Corp,Before Market Open,0.11,,
+CNK,Cinemark Holdings Inc,Before Market Open,0.46,,
+DGICA,Donegal Group Inc,Before Market Open,0.40,,
+ETR,Entergy Corp,Before Market Open,0.46,,
+ES,Eversource Energy,Before Market Open,0.75,,
+HMSY,HMS Holdings Corp,1:00AM EST,0.22,,
+HUN,Huntsman Corp,1:00AM EST,0.66,,
+INSM,Insmed Inc,Before Market Open,-0.64,,
+KBR,KBR Inc,Before Market Open,0.30,,
+LPNT,LifePoint Health Inc,Before Market Open,0.83,,
+SNR,New Senior Investment Group Inc,Before Market Open,-0.17,,
+NWN,Northwest Natural Gas Co,Before Market Open,0.98,,
+PNK,Pinnacle Entertainment Inc,Before Market Open,0.13,,
+PNW,Pinnacle West Capital Corp,Before Market Open,0.12,,
+PBPB,Potbelly Corp,Before Market Open,0.08,,
+PEG,Public Service Enterprise Group Inc,Before Market Open,0.56,,
+RHP,Ryman Hospitality Properties Inc,Before Market Open,1.02,,
+TCP,TC PipeLines LP,Before Market Open,0.77,,
+TDS,Telephone and Data Systems Inc,Before Market Open,-0.04,,
+TWI,Titan International Inc,Before Market Open,-0.15,,
+ULH,Universal Logistics Holdings Inc,Before Market Open,0.24,,
+WPC,W. P. Carey Inc,Before Market Open,0.57,,
